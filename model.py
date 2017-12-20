@@ -6,7 +6,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 from torch.autograd import Variable
-from starter3 import CTC
+from CTC import CTC
 from math import floor
 import matplotlib.pyplot as plt
 import matplotlib
